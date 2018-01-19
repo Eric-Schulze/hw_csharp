@@ -1,0 +1,6 @@
+C:\Schulze\C#\kMean_IrisDataset.cs\bin\Debug\kMean_IrisDataset.cs.exe.config
+C:\Schulze\C#\kMean_IrisDataset.cs\bin\Debug\kMean_IrisDataset.cs.exe
+C:\Schulze\C#\kMean_IrisDataset.cs\bin\Debug\kMean_IrisDataset.cs.pdb
+C:\Schulze\C#\kMean_IrisDataset.cs\obj\Debug\kMean_IrisDataset.cs.exe
+C:\Schulze\C#\kMean_IrisDataset.cs\obj\Debug\kMean_IrisDataset.cs.pdb
+C:\Schulze\C#\kMean_IrisDataset.cs\obj\Debug\kMean_IrisDataset.cs.csprojResolveAssemblyReference.cache
